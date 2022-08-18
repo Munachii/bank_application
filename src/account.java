@@ -133,10 +133,6 @@ public class account {
     }while ( option != "G")
     System.out.println("Thank you for banking with us !");
 
-    // int balanceP, int previousTransactionP, String customerNameP,
-    // //if (balanceP<=0 || customerNameP == null){
-    // getError();
-    // }
-        
+
 }
-// https://www.youtube.com/watch?v=hqY6rKhRBzU 5:19
+// https://www.youtube.com/watch?v=hqY6rKhRBzU 
